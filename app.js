@@ -11,3 +11,7 @@ function multiply(a, b) {
 function log(str) {
   console.log(str);
 }
+
+function divide(a, b) {
+  return a / b;
+}
